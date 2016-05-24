@@ -23,6 +23,6 @@ html {
 </style>
 <body>
 <a href="#" style="text-decoration:none;" onclick="window.location='index.html'"><div class="circleBase type2">START</div></a>
-<label style="color:#00FFEF;position:absolute;bottom:10%;margin-left:20px;font-weigth:bold;font-family:cursive;font-size:20px;">This is my heart Dear<br>Only you can protect it :)</label>
+<label style="color:#00FFEF;position:absolute;bottom:10%;margin-left:20px;font-weigth:bold;font-family:cursive;font-size:20px;">This is my heart Neha<br>Only you can protect it :)</label>
 </body>
 </html>
